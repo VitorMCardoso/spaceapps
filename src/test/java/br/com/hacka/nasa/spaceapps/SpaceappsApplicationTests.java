@@ -1,6 +1,6 @@
 package br.com.hacka.nasa.spaceapps;
 
-import org.junit.jupiter.api.Test;
+import org.junit.test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
